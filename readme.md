@@ -1,12 +1,20 @@
 
-# ft_turing
+# ft_turing json generator
 
 Code interface and json generator for virtual turing machine.
 
 ## Installation
 
+### ssh:
 ```bash
-git clone 
+git clone git@github.com:TalhaAcikgoz/TuringJsonIfier.git
+```
+### Https:
+```bash
+git clone [git@github.com:TalhaAcikgoz/TuringJsonIfier.git](https://github.com/TalhaAcikgoz/TuringJsonIfier.git)
+```
+### Usage:
+```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements
